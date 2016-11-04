@@ -6,3 +6,5 @@
 This is my first paragraph. You need to put extra line space inbetween your next paragraph
 
 This is my second paragraph.
+
+** Bold TEXT. User double star quote**
