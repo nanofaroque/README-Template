@@ -55,5 +55,4 @@ color.Magenta("And many others ..")
 ```
 
 
-[ANSI Escape
-Codes](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors)
+[Link Embeeded underneeth](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors)
