@@ -56,4 +56,4 @@ color.Magenta("And many others ..")
 
 
 [ANSI Escape
-Codes]
+Codes](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors)
