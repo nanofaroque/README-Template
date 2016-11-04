@@ -12,4 +12,6 @@ This is my second paragraph.
 
 *I am from Italy. I will write in italic. Use single star quote for that*
 
+***SomeText***
+
 
