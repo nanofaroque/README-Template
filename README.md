@@ -14,4 +14,7 @@ This is my second paragraph.
 
 # ***Bold and Italic at the same time***
 
+### Entering command
+'your command is here'
+
 
