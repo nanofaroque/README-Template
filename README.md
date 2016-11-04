@@ -7,4 +7,7 @@ This is my first paragraph. You need to put extra line space inbetween your next
 
 This is my second paragraph.
 
-**Bold TEXT. User double star quote**
+**Bold TEXT. Use double star quote**
+*I am from Italy. I will write in italic. Use single star quote for that*
+
+
