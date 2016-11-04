@@ -30,3 +30,6 @@ println("I am printing")
 * Fourh one
 * Fifth one
 
+### Bullet point with number
+1. I am first
+2. you are second
