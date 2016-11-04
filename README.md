@@ -61,3 +61,5 @@ color.Magenta("And many others ..")
 *Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*  
 Shortlink: [`http://git.io/sheet`](http://git.io/sheet)
 
+
+![Closing Repo](http://i.imgur.com/Uh1gZdx.png)
