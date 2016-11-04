@@ -33,3 +33,8 @@ println("I am printing")
 ### Bullet point with number
 1. I am first
 2. you are second
+
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
