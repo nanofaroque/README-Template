@@ -17,4 +17,11 @@ This is my second paragraph.
 ### Entering command
 `cd ..`
 
+### Entering some code snippet
+```
+public static void main (){
+println("I am printing")
+}
+```
+
 
