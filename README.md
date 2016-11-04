@@ -7,4 +7,4 @@ This is my first paragraph. You need to put extra line space inbetween your next
 
 This is my second paragraph.
 
-** Bold TEXT. User double star quote**
+**Bold TEXT. User double star quote**
