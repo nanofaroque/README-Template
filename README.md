@@ -24,9 +24,9 @@ println("I am printing")
 }
 ```
 ### For Bullet point list
-1. First one
-2. Second one
-3. Third one
+* First one
+* Second one
+* Third one
 * Fourh one
 * Fifth one
 
