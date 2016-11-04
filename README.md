@@ -53,3 +53,7 @@ color.Red("We have red")
 color.Magenta("And many others ..")
 
 ```
+
+
+[ANSI Escape
+Codes]
