@@ -57,5 +57,7 @@ color.Magenta("And many others ..")
 
 [Link Embeeded underneeth](http://en.wikipedia.org/wiki/ANSI_escape_code#Colors)
 
+### Link add
+*Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
+Shortlink: [`http://git.io/sheet`](http://git.io/sheet)
 
-[](www.google.com)
